@@ -25,3 +25,6 @@ void print1() {
 int main () {
     print1();
 }
+
+
+//created by tanmay
