@@ -1,11 +1,11 @@
 /*print the following pattern
 
 
-*
-* * 
-* * * 
-* * * * 
-* * * * *
+1
+2 2
+3 3 3
+4 4 4 4
+5 5 5 5 5
 
 
 */
@@ -13,10 +13,10 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-void print2(int n) {
+void print4(int n) {
     for (int i = 0;i<=n;i++) {
         for (int j = 0;j<=i;j++) {
-            cout << "* ";
+            cout << i << " ";
         }
         cout << endl;
     }
@@ -25,7 +25,7 @@ void print2(int n) {
 int main () {
     int n;
     cin >> n;
-    print2(n);
+    print4(n);
 }
 
 
