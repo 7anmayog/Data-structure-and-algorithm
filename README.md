@@ -9,4 +9,4 @@ Day 2 - trying to mastery the loops pattern 1 and pattern 2. i know its very slo
 
 Day 3 - finally printed the pattern 3 and pattern 4 its again slow but i did it and i understood bot the patterns and i am heading off to the bed , bye good night.
 
-Day 4 - finally printed the pattern 5 6 and 7. pattern 5 was easy and nice. pattern 6 was a little difficult .
+Day 4 - finally printed the pattern 5 6 and 7. pattern 5 was easy and nice. pattern 6 was a little difficult . pattern 7 was preety difficult i had to print space star space in a pattern it was damn hard but i finally did it . there are total of 21 pattern my goal is complete that all till day 10 i know its slow but i really need time.
