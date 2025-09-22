@@ -9,4 +9,4 @@ Day 2 - trying to mastery the loops pattern 1 and pattern 2. i know its very slo
 
 Day 3 - finally printed the pattern 3 and pattern 4 its again slow but i did it and i understood bot the patterns and i am heading off to the bed , bye good night.
 
-Day 4 - finally printed the pattern 5 6 and 7. pattern 5 was easy and nice.
+Day 4 - finally printed the pattern 5 6 and 7. pattern 5 was easy and nice. pattern 6 was a little difficult .
